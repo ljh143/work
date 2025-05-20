@@ -1,0 +1,18 @@
+html{
+  font-size: 16px ;
+}
+
+body{
+  font-family: Arial; 
+  color: royalblue;
+	color: rgb(65, 105, 225);
+	color: #4169E1CC;
+	color: rgba(39,177,182,0.8);
+	color: #2775b6CC;
+  color: #de2a18;
+  font-size: 2rem;
+}
+p{
+ width: 80vw;
+ height: 80vh;
+}
